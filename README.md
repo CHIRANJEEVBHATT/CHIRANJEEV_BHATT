@@ -4,7 +4,7 @@
 Welcome to my GitHub profile! I'm a backend developer and technology enthusiast who loves creating efficient applications that are user-friendly, solving complex problems, and making ideas turn into workable, impactful software solutions
 
 🔧 Technologies & Skills
-Languages & Frameworks: Python, C , c++
+Languages : Python, C , c++
 Web Development: HTML, CSS
 Version Control: Git & GitHub
 Exploring: Machine Learning, webdevelopment
