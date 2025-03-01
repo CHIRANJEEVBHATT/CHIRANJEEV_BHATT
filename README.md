@@ -20,7 +20,6 @@
 ![Chiranjeev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chiranjeev-Bhatt&show_icons=true&theme=radical)  
 
 ## 📫 Connect with Me  
-- **GitHub:** [Chiranjeev-Bhatt](https://github.com/Chiranjeev-Bhatt)  
-- **LinkedIn:** [Your LinkedIn Profile]  
+- **GitHub:** [Chiranjeev-Bhatt](https://github.com/Chiranjeev-Bhatt)    
 
 🚀 **Let’s connect and build awesome things together!** 🚀  
