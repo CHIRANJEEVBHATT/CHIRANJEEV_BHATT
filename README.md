@@ -1,19 +1,26 @@
-# CHIRANJEEV_BHATT
+# Hi there, I'm Chiranjeev Bhatt 👋  
 
-👋 Hello, I'm Chiranjeev Bhatt!
-Welcome to my GitHub profile! I'm a backend developer and technology enthusiast who loves creating efficient applications that are user-friendly, solving complex problems, and making ideas turn into workable, impactful software solutions
+## 🚀 About Me  
+- 🎓 **B.Tech CSE** student at **SRM University**  
+- 💻 Learning **C, C++, Python, HTML, CSS, JavaScript, and Java**  
+- 🤖 Exploring **Machine Learning**  
+- 🎯 Passionate about coding, problem-solving, and building projects  
 
-🔧 Technologies & Skills
-Languages : Python, C , c++
-Web Development: HTML, CSS
-Version Control: Git & GitHub
-Exploring: Machine Learning, webdevelopment
+## 📌 Skills  
+- Programming: **C, C++, Python, Java**  
+- Web Development: **HTML, CSS, JavaScript**  
+- Engineering Graphics & Design (AutoCAD)  
 
-🎯 What I’m Currently Exploring
-I'm diving into machine learning, exploring its potential in creating intelligent, data-driven applications. My goal is to broaden my skills in backend systems and leverage AI for more innovative solutions and i am also into web development and exploring it.
+## 🌱 Learning & Exploring  
+- Machine Learning  
+- Full Stack Development  
+- Version Control (Git & GitHub)  
 
-✈️ Beyond Coding
-I’m an aviation enthusiast with a fascination for the aviation industry, blending my love for technology with a dream of creating impactful solutions in this space and i am a fitness enthusias and loves to achive fitness goals
+## 📊 GitHub Stats  
+![Chiranjeev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chiranjeev-Bhatt&show_icons=true&theme=radical)  
 
-🌱 Let’s Connect
-Always up for learning and working on new projects, especially the ones that push the envelope in tech. Let's connect and build something amazing together!
+## 📫 Connect with Me  
+- **GitHub:** [Chiranjeev-Bhatt](https://github.com/Chiranjeev-Bhatt)  
+- **LinkedIn:** [Your LinkedIn Profile]  
+
+🚀 **Let’s connect and build awesome things together!** 🚀  
