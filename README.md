@@ -16,9 +16,6 @@
 - Full Stack Development  
 - Version Control (Git & GitHub)  
 
-## 📊 GitHub Stats  
-![Chiranjeev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chiranjeev-Bhatt&show_icons=true&theme=radical)  
-
 ## 📫 Connect with Me  
 - **GitHub:** [Chiranjeev-Bhatt](https://github.com/Chiranjeev-Bhatt)    
 
